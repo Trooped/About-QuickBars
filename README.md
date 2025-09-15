@@ -2,13 +2,21 @@
 
 ### Your smart home, one click away on any Android TV.
 
-![QuickBars Banner](https://i.imgur.com/your-banner-image.png) 
+![QuickBars Banner](quickbars-hero.png) 
 
 ---
 
 ### 🚀 What is QuickBars?
 
 Controlling your smart home from the couch can be clunky, often requiring you to pull out your phone for simple tasks. **QuickBars** is a native Android TV application built from the ground up to solve this problem. It provides an elegant and intuitive overlay system, allowing users to control their Home Assistant devices instantly, without ever leaving their current app or disrupting their viewing experience.
+
+---
+
+### 📖 Full Documentation & Website
+
+For complete setup guides, advanced feature documentation, tutorials, and more, please visit the official QuickBars website.
+
+**[QuickBars Website](https://trooped.dev/quickbars)**
 
 ---
 
@@ -32,7 +40,7 @@ This project went from a personal passion to a validated, successful product in 
 | 🔒 **Secure by Design** | Leverages hardware-backed credentials and modern security practices to keep your smart home connection safe.                           |
 | 🎨 **Highly Customizable** | From icons to colors to layout, QuickBars is designed to be personalized to match any user's setup and aesthetic.                      |
 
-![QuickBars Demo GIF](https://i.imgur.com/your-demo-gif.gif)
+![QuickBars Demo GIF](expanded_card.gif)
 
 ---
 
@@ -60,7 +68,7 @@ What I quickly discovered is a classic principle of good design: by solving for 
 QuickBars is available now on the Google Play Store.
 
 <a href="[QuickBars for Home Assistant](https://play.google.com/store/apps/details?id=dev.trooped.tvquickbars&pcampaignid=web_share)">
-    <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="220">
+    <img alt="Get it on Google Play" src="google-play-badge.png" width="220">
 </a>
 
 <br>
