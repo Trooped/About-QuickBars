@@ -24,8 +24,8 @@ For complete setup guides, advanced feature documentation, tutorials, and more, 
 
 This project went from a personal passion to a validated, successful product in the smart home community.
 
-* **2,500+** Active Installs
-* **175+** Paying Customers via In-App Purchases
+* **3,000+** Active Installs
+* **250+** Paying Customers via In-App Purchases
 * **4.9+ Star Rating** on the Google Play Store
 
 ---
