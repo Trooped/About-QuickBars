@@ -24,8 +24,8 @@ For complete setup guides, advanced feature documentation, tutorials, and more, 
 
 This project went from a personal passion to a validated, successful product in the smart home community.
 
-* **3,000+** Active Installs
-* **250+** Paying Customers via In-App Purchases
+* **4,000+** Active Installs
+* **350+** Paying Customers via In-App Purchases
 * **4.9+ Star Rating** on the Google Play Store
 
 ---
@@ -76,4 +76,4 @@ QuickBars is available now on the Google Play Store.
 
 ---
 
-*This showcase was created by Omri Peretz (Trooped). Connect with me on [LinkedIn](https://www.linkedin.com/in/omri-peretz-cs/) or view my portfolio at [trooped.dev](https://trooped.dev).*
+*This showcase was created by Omri Peretz (Trooped). Connect with me on [LinkedIn](https://www.linkedin.com/in/omri-peretz-cs/) or view my portfolio at [omriperetz.dev](https://omriperetz.dev).*
