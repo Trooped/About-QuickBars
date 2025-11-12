@@ -24,8 +24,8 @@ For complete setup guides, advanced feature documentation, tutorials, and more, 
 
 This project went from a personal passion to a validated, successful product in the smart home community.
 
-* **4,000+** Active Installs
-* **350+** Paying Customers via In-App Purchases
+* **6,000+** Active Installs
+* **500+** Paying Customers via In-App Purchases
 * **4.9+ Star Rating** on the Google Play Store
 
 ---
@@ -36,6 +36,8 @@ This project went from a personal passion to a validated, successful product in 
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 📺 **Custom Overlays** | Design and deploy beautiful, responsive QuickBars that can be opened over any app, giving you instant access to your most-used devices. |
 | 🎮 **Remote Key-Mapping** | Go beyond the overlay. Map any button on your remote to trigger Home Assistant actions for true one-click control.                    |
+| 🔔 **TV Notifications**   | Send rich, actionable notifications directly to your Android TV. Include title, message, icon, and even custom action buttons — using a simple Home Assistant [blueprint](https://github.com/Trooped/quickbars-blueprints). |
+| 🎥 **Camera PiP Streams** | Instantly show live camera feeds on-screen in a floating Picture-in-Picture window. Choose between an existing camera entity (MJPEG) or an RTSP/HTTP URL, with automatic size modes, stop controls, and multi-camera support — fully configurable via a [blueprint](https://github.com/Trooped/quickbars-blueprints). |
 | ⚡ **Instant & Local** | Built for performance with a local-first communication approach, ensuring your commands are fast and reliable.                            |
 | 🔒 **Secure by Design** | Leverages hardware-backed credentials and modern security practices to keep your smart home connection safe.                           |
 | 🎨 **Highly Customizable** | From icons to colors to layout, QuickBars is designed to be personalized to match any user's setup and aesthetic.                      |
