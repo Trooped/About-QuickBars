@@ -14,6 +14,8 @@ Controlling your smart home from the couch can be clunky, often requiring you to
 
 ### 📖 Full Documentation & Website
 
+QuickBars is now open source! Check out the [official repo](https://github.com/Trooped/QuickBars)
+
 For complete setup guides, advanced feature documentation, tutorials, and more, please visit the official QuickBars website.
 
 **[QuickBars Website](https://trooped.dev/quickbars)**
